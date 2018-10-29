@@ -4,12 +4,12 @@ eg:
 ```
 var port = 8084
 
-var hostname ="iot.nngcloud.com.cn";
-//var hostname ="47.74.149.150";
+var hostname ="xx.com";
+//var hostname ="47.x.x.x";
 //console.log(client)
 var  settings = {
-    userName: 'dash',
-    password: 'azXuKVQ28Fq8',
+    userName: 'xx',
+    password: 'xxx',
     useSSL:true,
     onSuccess:onConnect
 };
